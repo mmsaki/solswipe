@@ -1,6 +1,6 @@
 use anchor_lang::prelude::*;
 
-declare_id!("Fg6PaFpoGXkYsidMpWTK6W2BeZ7FEfcYkg476zPFsLnS");
+declare_id!("2JAFDEu7wf4BivMXw7f4dgqZMrAmNqVGjRi57jij5LUZ");
 
 #[program]
 pub mod solswipe {
